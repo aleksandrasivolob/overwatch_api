@@ -1,0 +1,5 @@
+# Ignore the following files
+.DS_Store
+*.pyc
+local_settings.py
+*.idea
